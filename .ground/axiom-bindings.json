@@ -1,0 +1,4 @@
+{
+  "$comment": "Grounding layer: binds declared axioms (ground truth chain) to the code that must satisfy them and a command that mechanically verifies it. 'hard' = mechanically decidable (the command's exit code is the verdict); 'soft' = needs a judge. Run `ground axiom verify` or `ground doctor`. Managed by `ground axiom bind`.",
+  "bindings": []
+}
